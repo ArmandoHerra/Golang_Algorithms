@@ -25,4 +25,11 @@ func TestReverseString(t *testing.T) {
 			t.Errorf("ReverseStringRune(%q) = %q; want %q", tt.input, result, tt.expected)
 		}
 	}
+
+	for _, tt := range tests {
+		result2 := reversestring.ReverseStringBuilder(tt.input)
+		if result2 != tt.expected {
+			t.Errorf("ReverseStringBuilder(%q) = %q; want %q", tt.input, result2, tt.expected)
+		}
+	}
 }
