@@ -1,4 +1,4 @@
-# Scenario 1 - Fibonacci Sequence
+# Scenario 3 - Fibonacci Sequence
 
 ## Problem Description
 

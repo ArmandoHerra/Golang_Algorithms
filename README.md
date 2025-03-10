@@ -5,8 +5,8 @@ A repository I created for practicing Golang at the same time as Algorithms and 
 
 - Scenario 1: Reverse a String - DONE
 - Scenario 2: Palindrome Check - DONE
-- Scenario 3: Fibonacci Series Calculation
-- Scenario 4: Factorial of a Number
+- Scenario 3: Fibonacci Series Calculation - DONE
+- Scenario 4: Factorial of a Number - DONE
 - Scenario 5: Find the Maximum Element in a List
 - Scenario 6: Two Sum Problem
 - Scenario 7: Merge Two Sorted Lists
